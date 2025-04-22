@@ -11,3 +11,4 @@ D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj
 D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.sourcelink.json
