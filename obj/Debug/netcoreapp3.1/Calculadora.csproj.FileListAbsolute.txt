@@ -1,0 +1,13 @@
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\dev\csharp\Fundamentos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\dev\csharp\Fundamentos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
